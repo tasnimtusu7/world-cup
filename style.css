@@ -1,0 +1,88 @@
+/*-----------------
+ Background section
+ ------------------*/
+.background{
+    position: absolute;
+    width: 1321px;
+    height: 646px;
+    left: 140px;
+    top: 50px;
+    background: #161616;
+    border-radius: 30px;
+}
+.background-details{
+    width: 70%;
+}
+.text-details{
+    width:50%;
+    padding-left: 15%;
+    padding-top: 50px;
+}
+.text-details h1{
+    color: whitesmoke;
+    font-size: 70px;
+    font-weight: 700;
+    padding-top: 30px;
+}
+.text-details p{
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+.botton{
+    width: 150px;
+    height: 45px;
+    background-color: aqua;
+    color: black;
+    border-radius: 7px;
+    font-size: 17px;
+}
+.background .picture-one img{
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    left: 801px;
+    top: 47px;
+}
+/*-----------------
+ main section
+ ------------------*/
+ .three-buttom{
+    position: absolute;
+    width: 312px;
+    height: 312px;
+    left: 140px;
+    top: 826px;
+    background: #161616;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    padding-top: 50px;
+    padding-left: 60px;
+ }
+ .button-one{
+    width: 240px;
+    height: 55px;
+    color: black;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 700;
+ }
+ .button-two{
+    width: 240px;
+    height: 55px;
+    color: black;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 700;
+ }
+ .button-three{
+    width: 240px;
+    height: 55px;
+    color: black;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: aqua;
+ }
