@@ -86,3 +86,24 @@
     font-weight: 700;
     background-color: aqua;
  }
+/*--------------
+     blogs
+---------------*/
+.blog{
+    position: absolute;
+    left: 540px;
+    top: 826px;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+.blog-details{
+    position: absolute;
+    left: 540px;
+    top: 1000px;
+}
+.text-one{
+    font-weight: 900;
+}
+.text-two{
+    font-weight: 900;
+}
